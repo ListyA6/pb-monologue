@@ -42,14 +42,14 @@ H10 (before/after):      Sunday admin then: big book + Excel + calculator. Sunda
 
 | t (s) | Narration (VO) | Shot / B-roll | Caption |
 |-------|----------------|---------------|---------|
-| 0–3 | "I used to spend 12 hours a month on admin for one restaurant. Now it's 15 minutes." | **FACE, tight crop, eyes locked.** No music yet. | Top-pinned: `12 HOURS → 15 MIN` |
-| 3–8 | "One geprek shop. Rp130 juta a month. And every Sunday I was buried in this." | Cut to: hand flipping a physical big book, pen on the page, kitchen sounds underneath. | `@listy / runs 3 restaurants, builds software` |
-| 8–15 | "Two hours every week. Sales tracking. Stock planning. Item costs. Then six more hours at month-end for salaries, bonuses, late fines." | Fast cuts: big book pages → Excel sheet → calculator → POS receipts stacked. 1.5s per cut. | Highlight: `2 HRS /week` ... `+6 HRS /month` |
-| 15–17 | "And the worst part? I was copying the same numbers twice." | **FACE SNAP, ~2s.** Flat delivery, slight head shake. | Optional: `same numbers. twice.` |
-| 17–28 | "Physical big book first. Then re-typed into Excel. Then re-checked because I didn't trust myself. Twelve hours of work that didn't move the restaurant forward by one rupiah." | B-roll: hand writing in big book → cut → same numbers being typed into Excel → close-up on a red error cell → kitchen line firing in the background. | `0 IDR earned. 12 hrs spent.` |
-| 28–32 | "So I built my own POS. One screen. Everything in it." | **FACE RETURN, ~2–3s.** Slower. Matter-of-fact. | Pin replaces: `BUILT THE THING` |
-| 32–40 | "Now I open it once a month from my phone. Sales, stock, payroll, fines, bonuses — all there. 15 minutes. That's it." | Cut to: phone-in-hand showing LalaFun POS dashboard. Soft zoom on the monthly summary number. **PROOF SHOT** held 2s. | Number flash: `15 MIN /mo` with monospace count-up |
-| 40–45 | "12 hours of admin became 15 minutes. Same restaurant. I just stopped doing the part I hated." | Cut back to face for 1.5s → match-cut to the big book closing → loop frame matches frame 1. | Final card: `built it because nobody was going to build it for me` |
+| 0–3 | "I used to spend {emp}12 hours a month{/} on admin for one restaurant.{pause:0.3} Now it's {hit}15 minutes{/}." | **FACE, tight crop, eyes locked.** No music yet. | Top-pinned: `12 HOURS → 15 MIN` |
+| 3–8 | "One geprek shop.{pause:0.2} {emp}Rp130 juta{/} a month.{pause:0.3} And every Sunday I was buried in this." | Cut to: hand flipping a physical big book, pen on the page, kitchen sounds underneath. | `@listy / runs 3 restaurants, builds software` |
+| 8–15 | "{emp}Two hours{/} every week. Sales tracking. Stock planning. Item costs.{pause:0.3} Then {emp}six more hours{/} at month-end for salaries, bonuses, late fines." | Fast cuts: big book pages → Excel sheet → calculator → POS receipts stacked. 1.5s per cut. | Highlight: `2 HRS /week` ... `+6 HRS /month` |
+| 15–17 | "And the worst part?{pause:0.4} {slow}I was copying the same numbers twice.{/}" | **FACE SNAP, ~2s.** Flat delivery, slight head shake. | Optional: `same numbers. twice.` |
+| 17–28 | "Physical big book first. Then re-typed into Excel. {soft}Then re-checked because I didn't trust myself.{/}{pause:0.3} {slow}Twelve hours of work that didn't move the restaurant forward by one rupiah.{/}" | B-roll: hand writing in big book → cut → same numbers being typed into Excel → close-up on a red error cell → kitchen line firing in the background. | `0 IDR earned. 12 hrs spent.` |
+| 28–32 | "So I {hit}built my own POS{/}.{pause:0.3} One screen. Everything in it." | **FACE RETURN, ~2–3s.** Slower. Matter-of-fact. | Pin replaces: `BUILT THE THING` |
+| 32–40 | "Now I open it once a month from my phone. Sales, stock, payroll, fines, bonuses — all there.{pause:0.4} {hit}15 minutes.{/} That's it." | Cut to: phone-in-hand showing LalaFun POS dashboard. Soft zoom on the monthly summary number. **PROOF SHOT** held 2s. | Number flash: `15 MIN /mo` with monospace count-up |
+| 40–45 | "{slow}12 hours of admin became 15 minutes.{/}{pause:0.3} Same restaurant.{pause:0.3} I just stopped doing {emp}the part I hated{/}." | Cut back to face for 1.5s → match-cut to the big book closing → loop frame matches frame 1. | Final card: `built it because nobody was going to build it for me` |
 
 **Total words: ~127.** Inside the 95–130 band.
 
